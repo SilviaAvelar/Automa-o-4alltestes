@@ -1,0 +1,5 @@
+import './Get_Reqrest.cy'
+import './Post_Reqrest.cy'
+import './Delete_Reqrest.cy'
+import './Patch_Reqrest.cy'
+import './Put_Reqrest.cy'
